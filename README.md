@@ -1,2 +1,1 @@
-# CS50
-Proyectos CS50
+Project0
